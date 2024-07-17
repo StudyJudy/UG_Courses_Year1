@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>背景图片/1.jpg</file>
+        <file>背景图片/2.jpg</file>
+        <file>背景图片/3.jpg</file>
+        <file>背景图片/4.jpg</file>
+        <file>背景图片/5.jpg</file>
+        <file>背景图片/6.jpg</file>
+        <file>背景图片/7.jpg</file>
+        <file>背景图片/8.jpg</file>
+        <file>背景图片/9.jpg</file>
+        <file>背景图片/10.jpg</file>
+    </qresource>
+</RCC>

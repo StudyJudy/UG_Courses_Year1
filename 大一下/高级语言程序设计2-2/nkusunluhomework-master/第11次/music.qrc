@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/music">
+        <file>背景音乐/John Williams - Hedwig's Theme.mp3</file>
+        <file>背景音乐/John Williams - Hedwig's Theme.wav</file>
+    </qresource>
+</RCC>
