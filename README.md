@@ -1,3 +1,3 @@
 # Courses_year1
 
-Courses taken by the freshman of Information Security Major of Grade 2021, Nankai University
+Courses for the first year in the Information Security Undergraduate Program at Nankai University
