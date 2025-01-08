@@ -1,2 +1,3 @@
 # Courses_year1
-Courses for the first-year students in the Information Security Undergraduate Program at Nankai University, Grade 2021
+
+Study Materials for the First Year in the Information Security Major, Grade 2021, College of Cryptography and Cyber Science, Nankai University.
